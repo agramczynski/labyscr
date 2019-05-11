@@ -1,0 +1,7 @@
+C:\Users\y700\source\repos\Magazon\Magazon\bin\Debug\Magazon.exe.config
+C:\Users\y700\source\repos\Magazon\Magazon\bin\Debug\Magazon.exe
+C:\Users\y700\source\repos\Magazon\Magazon\bin\Debug\Magazon.pdb
+C:\Users\y700\source\repos\Magazon\Magazon\obj\Debug\Magazon.csprojAssemblyReference.cache
+C:\Users\y700\source\repos\Magazon\Magazon\obj\Debug\Magazon.csproj.CoreCompileInputs.cache
+C:\Users\y700\source\repos\Magazon\Magazon\obj\Debug\Magazon.exe
+C:\Users\y700\source\repos\Magazon\Magazon\obj\Debug\Magazon.pdb
